@@ -1,6 +1,4 @@
 # computer-networks
-
-# Programming Assignment
 # Xiao Liang
 
  ========================================
